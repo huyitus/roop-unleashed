@@ -2,7 +2,7 @@ clear_output: true
 force_cpu: false
 max_threads: 3
 memory_limit: 0
-output_image_format: png
+output_image_format: jpg
 output_template: '{file}_{time}'
 output_video_codec: libx264
 output_video_format: mp4
@@ -11,4 +11,4 @@ selected_theme: Default
 server_name: ''
 server_port: 0
 server_share: true
-video_quality: 14
+video_quality: 23
